@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://YOUR-DOMAIN-HERE.co.za/sitemap.xml
